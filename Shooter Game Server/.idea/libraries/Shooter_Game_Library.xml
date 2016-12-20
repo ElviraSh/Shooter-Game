@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Shooter Game Library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Shooter Game Library/out/artifacts/Shooter_Game_Library_jar/Shooter Game Library.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

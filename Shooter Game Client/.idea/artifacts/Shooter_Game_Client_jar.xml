@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Shooter Game Client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shooter_Game_Client_jar</output-path>
+    <root id="archive" name="Shooter Game Client.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Shooter Game Client" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Shooter Game Library/out/artifacts/Shooter_Game_Library_jar/Shooter Game Library.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

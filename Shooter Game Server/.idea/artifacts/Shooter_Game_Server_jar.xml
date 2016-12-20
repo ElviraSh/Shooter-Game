@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Shooter Game Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shooter_Game_Server_jar</output-path>
+    <root id="archive" name="Shooter Game Server.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Shooter Game Server" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Shooter Game Library/out/artifacts/Shooter_Game_Library_jar/Shooter Game Library.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
